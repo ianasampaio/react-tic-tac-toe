@@ -7,8 +7,9 @@
 }
 
 .action{
-    font: bold 14px 'Montserrat', sans-serif;
-    color: #707070;
+    font-weight: bold;
+    font-size: 14px;
+    color: var(--color-negative);
     text-decoration: none;
     text-transform: uppercase;
 }
