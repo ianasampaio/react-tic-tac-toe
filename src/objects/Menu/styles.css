@@ -1,5 +1,10 @@
+.menu{
+    display: block;
+    text-indent: -9999px;
+}
+
 .menu::after, .menu::before, .menu > .center{
-    display: inline-flex;
+    display: block;
     content:"";
     background-color: var(--color-negative);
     width: 100% ;
@@ -7,6 +12,6 @@
     border-radius: 2px;
 }
 
-.menu::before{
+.menu::before, .menu > .center{
     margin-bottom: 5px;
 }
