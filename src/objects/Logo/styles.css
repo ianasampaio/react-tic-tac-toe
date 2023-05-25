@@ -1,0 +1,7 @@
+.logo{
+    font-weight: bold;
+    font-size: 22px;
+    color: var(--color-negative);
+    text-decoration: none;
+    font-style: italic;
+}
