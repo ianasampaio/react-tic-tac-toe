@@ -1,12 +1,4 @@
-.Navbar{
-    position: absolute;
-    width: 291px;
-    height: 21px;
-    left: 34px;
-    top: 19px;
-}
-
-.action{
+.about{
     font-weight: bold;
     font-size: 14px;
     color: var(--color-negative);

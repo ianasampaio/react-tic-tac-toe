@@ -1,11 +1,10 @@
-import './Navbar.css';
+import React from 'react'
+import About from'./objects/About';
 
-function Navbar() {
+function App() {
   return (
-    <nav className="Navbar">
-      <a href="#to-do" className="action">Sobre</a>
-    </nav>
+    <About/>
   );
 }
 
-export default Navbar;
+export default App;
