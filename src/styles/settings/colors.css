@@ -1,11 +1,11 @@
 :root {
-    --color-negative: #565656;
-    --color-light-negative:  rgb(86, 86, 86, 0.1);
-    --color-zero: #fff9f2;
-    --color-first: #ffe2bf;
+    --color-negative: #3b3b3b;
+    --color-light-negative:  rgb(59, 59, 59, 0.1);
+    --color-zero: #f6f6f6;
+    --color-first: #ececec;
     
-    --color-second: #ffa9a5;
-    --color-third: #ffadad;
+    --color-second: #ffc5c5;
+    /* --color-third: #ffadad; */
     
     /* --color-fourh: #ffee93;
     --color-fifth: #ffc09f; */
